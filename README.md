@@ -5,9 +5,9 @@
 
 - 🔭 currently working on [Logic Crush](https://github.com/pedroooojh/TRUTH-CRUSH)
 
-- 🌱 currently learning **c, django, software engineering**
-
 - 👯 collaborating on [Fact](https://github.com/Bruno-of/projeto-2-si-equipe-1)
+
+- 🌱 also learning **c, django, software engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

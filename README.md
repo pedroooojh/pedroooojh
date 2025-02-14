@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedroooojh&label=Profile%20views&color=0e75b6&style=flat" alt="pedroooojh" /> </p>
 
-- 🔭 currently working on [Logic Crush](https://github.com/pedroooojh/TRUTH-CRUSH)
+- 🔭 check out my game [Logic Crush](https://github.com/pedroooojh/TRUTH-CRUSH)
 
-- 👯 collaborating on [Fact](https://github.com/Bruno-of/projeto-2-si-equipe-1)
+- 👯 collaborator on [Fact](https://github.com/Bruno-of/projeto-2-si-equipe-1)
 
 - 🌱 also learning **c, django, software engineering**
 

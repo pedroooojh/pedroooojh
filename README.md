@@ -7,7 +7,7 @@
 
 - 👯 collaborator on [Fact](https://github.com/Bruno-of/projeto-2-si-equipe-1)
 
-- 🌱 also learning **c, django, software engineering**
+- 🌱 also learning **c, c++, JavaScript and business management**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

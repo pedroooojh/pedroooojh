@@ -77,37 +77,12 @@ const pedro = {
 
 ---
 
-## 📌 featured projects
-
-<a href="https://github.com/pedroooojh/TRUTH-CRUSH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroooojh&repo=TRUTH-CRUSH&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Bruno-of/projeto-2-si-equipe-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bruno-of&repo=projeto-2-si-equipe-1&theme=tokyonight&hide_border=true" />
-</a>
-
----
-
-## 📊 stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pedroooojh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroooojh&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroooojh&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-augusto-calazans)
 [![Profile Views](https://komarev.com/ghpvc/?username=pedroooojh&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/pedroooojh)
 
 ```
-/* workflows don't break themselves — I make sure of that */
 ```
 
 </div>

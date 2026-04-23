@@ -34,11 +34,11 @@ const pedro = {
 
 ```
 ┌─────────────────────────────────────────────────┐
-│  🔄  AUTOMATION     Typebot · n8n · RPA          │
-│  🔗  INTEGRATION    APIs · Webhooks · Workflows   │
-│  🌐  WEB            HTML · CSS · JavaScript       │
-│  🐍  SCRIPTING      Python · C · C++              │
-│  🗄️  DATA           PostgreSQL · SQLite           │
+│  🔄  AUTOMATION     Typebot · n8n · RPA         │
+│  🔗  INTEGRATION    APIs · Webhooks · Workflows │
+│  🌐  WEB            HTML · CSS · JavaScript     │
+│  🐍  SCRIPTING      Python · C · C++            │
+│  🗄️  DATA           PostgreSQL · SQLite         │
 └─────────────────────────────────────────────────┘
 ```
 

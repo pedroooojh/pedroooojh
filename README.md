@@ -61,8 +61,6 @@ atualmente estágiando na HubVision, e no 5º período de Sistemas de Informaç�
 
 ## 🛠 stack
 
-## 🛠 stack
-
 #### automação e integração
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Typebot](https://img.shields.io/badge/Typebot-0042DA?style=for-the-badge&logo=typebot&logoColor=white)

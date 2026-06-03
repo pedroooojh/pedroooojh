@@ -12,7 +12,7 @@
 ### `> pedro augusto calazans`
 #### backend · automação · integração de sistemas
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+%26+Systems+Integration;Process+Automation+(RPA);Building+scalable+workflows+and+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+e+Integração+de+Sistemas;Automação+de+Processos+(RPA);Construindo+fluxos+de+trabalho+e+produtos+escaláveis)](https://git.io/typing-svg)
 
 </div>
 

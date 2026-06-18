@@ -12,14 +12,14 @@
 ```javascript
 const pedro = {
   foco_atual: "Backend & Integração de Sistemas",
-  empresa: "HubVision",
-  faculdade: "Sistemas de Informação na CESAR School",
-  areas:     [
+  empresa:    "HubVision",
+  faculdade:  "Sistemas de Informação na CESAR School",
+  areas: [
     "Dev Fullstack",
     "Integração de Sistemas",
     "Automação de Processos",
     "REST APIs & Webhooks",
-    "Database"
+    "Database",
   ],
 };
 ```
@@ -27,42 +27,38 @@ const pedro = {
 ---
 
 ## 👋 sobre mim
-atualmente estágiando na HubVision, e no 5º período de Sistemas de Informação na CESAR School
 
-## 💼 experiência profissional
-**HubVision** — *estagiário de Automação e Integração de Sistemas*
-* desenvolvimento de fluxos de trabalho automatizados utilizando **n8n** e **Typebot**
-* estruturação e manutenção de integrações via **APIs REST** e **Webhooks**
-* criação de sistemas automatizados de comunicação para notificações, alertas e processos de cobrança
-* consulta, manipulação e gestão de consistência em banco de dados
-* criação de dashboards para monitoramento operacional e inteligência de negócios
-* otimização de processos e suporte a iniciativas focadas em produto
+Atualmente estagiando na HubVision, no 5º período de Sistemas de Informação na CESAR School.
 
 ---
 
-## ⚡  áreas de conhecimento
+## 💼 experiência profissional
 
-<div align="center">
+**HubVision** — *Estagiário de Automação e Integração de Sistemas*
 
-```text
-## 🚀 stack utilizada no projeto
+- Desenvolvimento de fluxos de trabalho automatizados utilizando **n8n** e **Typebot**
+- Estruturação e manutenção de integrações via **APIs REST** e **Webhooks**
+- Criação de sistemas automatizados de comunicação para notificações, alertas e processos de cobrança
+- Consulta, manipulação e gestão de consistência em banco de dados
+- Criação de dashboards para monitoramento operacional e inteligência de negócios
+- Otimização de processos e suporte a iniciativas focadas em produto
+
+---
+
+## ⚡ stack do projeto
 
 ```text
 ┌────────────────────────────────────────────────────────────────────┐
-│ ⚛️ FRONTEND        React 18 · TypeScript · Vite                    │
-│ 🎨 INTERFACE       Tailwind CSS · shadcn/ui · Radix UI · Lucide    │
-│ 🔗 INTEGRAÇÕES     APIs REST · Webhooks · Design de Payload        │
-│ 🔄 ESTADO/DADOS    TanStack Query                                  │
-│ 🗄️ BACKEND         Supabase Auth · PostgreSQL · RPCs · RLS         │                             
-│ 🧪 TESTES          Vitest · Testing Library · Playwright           │
-│ 🤖 AUTOMAÇÕES      n8n · Typebot                                   │
-│ 🚀 DEPLOY          Netlify · Vercel                                │
+│ ⚛️  FRONTEND        React 18 · TypeScript · Vite                   │
+│ 🎨  INTERFACE       Tailwind CSS · shadcn/ui · Radix UI · Lucide   │
+│ 🔗  INTEGRAÇÕES     APIs REST · Webhooks · Design de Payload       │
+│ 🔄  ESTADO/DADOS    TanStack Query                                 │
+│ 🗄️  BACKEND         Supabase Auth · PostgreSQL · RPCs · RLS        │
+│ 🧪  TESTES          Vitest · Testing Library · Playwright          │
+│ 🤖  AUTOMAÇÕES      n8n · Typebot                                  │
+│ 🚀  DEPLOY          Netlify · Vercel                               │
 └────────────────────────────────────────────────────────────────────┘
 ```
-
-```
-
-</div>
 
 ---
 
@@ -141,10 +137,6 @@ atualmente estágiando na HubVision, e no 5º período de Sistemas de Informaç�
 ╚██████╗ ██║  ██║███████╗██║  ██║███████╗██║  ██║██║ ╚████║███████║
  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝
 ```
-
-</div>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-augusto-calazans)
 [![Profile Views](https://komarev.com/ghpvc/?username=pedroooojh&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/pedroooojh)

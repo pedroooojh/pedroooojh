@@ -1,144 +1,60 @@
 <div align="center">
 
-### `> pedro augusto calazans`
-#### fullstack · automação · integração de sistemas
+<h1>pedro augusto calazans</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Fullstack+e+Integração+de+Sistemas;Automação+de+Processos+(RPA);Construindo+fluxos+de+trabalho+e+produtos+escaláveis)](https://git.io/typing-svg)
+<p><b>desenvolvedor fullstack</b> · backend, integração de sistemas e automação de processos</p>
 
-</div>
-
----
-
-```javascript
-const pedro = {
-  foco_atual: "Backend & Integração de Sistemas",
-  empresa:    "HubVision",
-  faculdade:  "Sistemas de Informação na CESAR School",
-  areas: [
-    "Dev Fullstack",
-    "Integração de Sistemas",
-    "Automação de Processos",
-    "REST APIs & Webhooks",
-    "Database",
-  ],
-};
-```
-
----
-
-## 👋 sobre mim
-
-Atualmente estagiando na HubVision, no 5º período de Sistemas de Informação na CESAR School.
-
----
-
-## 💼 experiência profissional
-
-**HubVision** — *Estagiário de Automação e Integração de Sistemas*
-
-- Desenvolvimento de fluxos de trabalho automatizados utilizando **n8n** e **Typebot**
-- Estruturação e manutenção de integrações via **APIs REST** e **Webhooks**
-- Criação de sistemas automatizados de comunicação para notificações, alertas e processos de cobrança
-- Consulta, manipulação e gestão de consistência em banco de dados
-- Criação de dashboards para monitoramento operacional e inteligência de negócios
-- Otimização de processos e suporte a iniciativas focadas em produto
-
----
-
-## ⚡ stack do projeto
-
-```text
-┌────────────────────────────────────────────────────────────────────┐
-│ ⚛️  FRONTEND        React 18 · TypeScript · Vite                   │
-│ 🎨  INTERFACE       Tailwind CSS · shadcn/ui · Radix UI · Lucide   │
-│ 🔗  INTEGRAÇÕES     APIs REST · Webhooks · Design de Payload       │
-│ 🔄  ESTADO/DADOS    TanStack Query                                 │
-│ 🗄️  BACKEND         Supabase Auth · PostgreSQL · RPCs · RLS        │
-│ 🧪  TESTES          Vitest · Testing Library · Playwright          │
-│ 🤖  AUTOMAÇÕES      n8n · Typebot                                  │
-│ 🚀  DEPLOY          Netlify · Vercel                               │
-└────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🛠 stack
-
-#### frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=fff)
-
-#### interface
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=fff)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=fff)
-![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-F56565?style=for-the-badge&logo=lucide&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
-
-#### estado e dados
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff)
-
-#### backend e linguagens
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=fff)
-
-#### banco de dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=000)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=fff)
-![Row Level Security](https://img.shields.io/badge/Row_Level_Security-1F2937?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![RPCs](https://img.shields.io/badge/RPCs-4B5563?style=for-the-badge&logo=serverfault&logoColor=fff)
-
-#### automação e integração
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=fff)
-![Typebot](https://img.shields.io/badge/Typebot-0042DA?style=for-the-badge&logo=typebot&logoColor=fff)
-![RPA](https://img.shields.io/badge/RPA-FF6B35?style=for-the-badge&logo=uipath&logoColor=fff)
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)
-
-#### APIs e ferramentas
-![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=fff)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-
-#### calendário e planilhas
-![FullCalendar](https://img.shields.io/badge/FullCalendar-2C3E50?style=for-the-badge&logo=googlecalendar&logoColor=fff)
-![SheetJS](https://img.shields.io/badge/SheetJS-217346?style=for-the-badge&logo=googlesheets&logoColor=fff)
-![XLSX](https://img.shields.io/badge/XLSX-217346?style=for-the-badge&logo=microsoftexcel&logoColor=fff)
-
-#### testes
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=fff)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=fff)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=fff)
-
-#### produto e gestão
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=fff)
-
-#### deploy
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=fff)
-
----
-
-<div align="center">
-
-```text
- ██████╗  █████╗ ██╗      █████╗ ███████╗ █████╗ ███╗   ██╗███████╗
-██╔════╝ ██╔══██╗██║     ██╔══██╗╚══███╔╝██╔══██╗████╗  ██║██╔════╝
-██║      ███████║██║     ███████║  ███╔╝ ███████║██╔██╗ ██║███████╗
-██║      ██╔══██║██║     ██╔══██║ ███╔╝  ██╔══██║██║╚██╗██║╚════██║
-╚██████╗ ██║  ██║███████╗██║  ██║███████╗██║  ██║██║ ╚████║███████║
- ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-augusto-calazans)
-[![Profile Views](https://komarev.com/ghpvc/?username=pedroooojh&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/pedroooojh)
+<a href="https://devpedrocalazans.vercel.app/"><img src="https://img.shields.io/badge/portfólio-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="portfólio"></a>
+<a href="https://linkedin.com/in/pedro-augusto-calazans"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<img src="https://img.shields.io/badge/hubvision-estagiário-0d1117?style=flat-square" alt="hubvision">
+<img src="https://img.shields.io/badge/cesar_school-sistemas_de_informação-0d1117?style=flat-square" alt="cesar school">
+<img src="https://img.shields.io/badge/recife,_pe-0d1117?style=flat-square&logo=googlemaps&logoColor=white" alt="recife">
 
 </div>
+
+---
+
+### sobre
+
+estudante do 6º período de sistemas de informação na cesar school e estagiário de automação/integração na hubvision. trabalho principalmente com backend, conectando sistemas via apis/webhook e automatizando processos que antes eram manuais.
+
+---
+
+### experiência
+
+**hubvision** — estagiário de automação e integração de sistemas
+
+- desenvolvo fluxos automatizados com **n8n** e **typebot**, incluindo atendimento via whatsapp com envio de boletos e roteamento para filas de atendentes
+- construo e mantenho integrações entre sistemas via **apis rest** e **webhooks**, do desenho do payload ao tratamento de falhas
+- automatizo a comunicação de notificações, alertas e cobrança
+- consulto e manipulo dados em banco relacional, garantindo consistência entre os sistemas integrados
+- crio dashboards de monitoramento operacional e indicadores de negócio
+
+---
+
+### projetos pessoais
+
+**[ad astra politics](https://ad-astra-politics.vercel.app/)** &nbsp; ![next.js](https://img.shields.io/badge/next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white) ![vercel](https://img.shields.io/badge/vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
+
+plataforma educativa sobre política brasileira. reúne um quiz que posiciona o usuário em 12 eixos ideológicos, com margem de incerteza e explicação de cada resposta, além de uma enciclopédia da república desde 1889 e um comparador de governos com séries do ibge, ipea, banco central e banco mundial.
+
+**[de marecos ao pajeú](https://pedroooojh.github.io/arvore-genealogica/)** &nbsp; ![javascript](https://img.shields.io/badge/javascript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e) ![github pages](https://img.shields.io/badge/github_pages-0d1117?style=flat-square&logo=githubpages&logoColor=white)
+
+árvore genealógica interativa que acompanha quatro séculos da minha linhagem familiar, a partir da minha avó materna, de penafiel, em portugal, ao sertão de pernambuco. tem fichas por pessoa, mapa de deslocamentos, cronologia histórica e registro das fontes e lacunas da pesquisa.
+
+**[ad astra downloader](https://github.com/pedroooojh/ad-astra-downloader)** &nbsp; ![python](https://img.shields.io/badge/python-0d1117?style=flat-square&logo=python&logoColor=3776ab) ![yt-dlp](https://img.shields.io/badge/yt--dlp-0d1117?style=flat-square&logo=youtube&logoColor=ff0000) ![ffmpeg](https://img.shields.io/badge/ffmpeg-0d1117?style=flat-square&logo=ffmpeg&logoColor=007808)
+
+app desktop para windows que baixa vídeo e áudio do youtube, feito para a comunidade ad astra. configura o yt-dlp na primeira execução, mantém ele atualizado sozinho e é distribuído como executável via pyinstaller.
+
+---
+
+### stack
+
+| área | tecnologias |
+|---|---|
+| **backend e dados** | ![node.js](https://img.shields.io/badge/node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5fa04e) ![typescript](https://img.shields.io/badge/typescript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6) ![postgresql](https://img.shields.io/badge/postgresql-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1) ![supabase](https://img.shields.io/badge/supabase-0d1117?style=flat-square&logo=supabase&logoColor=3fcf8e) |
+| **frontend** | ![react](https://img.shields.io/badge/react-0d1117?style=flat-square&logo=react&logoColor=61dafb) ![vite](https://img.shields.io/badge/vite-0d1117?style=flat-square&logo=vite&logoColor=646cff) ![tailwind css](https://img.shields.io/badge/tailwind_css-0d1117?style=flat-square&logo=tailwindcss&logoColor=06b6d4) ![shadcn/ui](https://img.shields.io/badge/shadcn%2fui-0d1117?style=flat-square&logo=shadcnui&logoColor=white) ![tanstack query](https://img.shields.io/badge/tanstack_query-0d1117?style=flat-square&logo=reactquery&logoColor=ff4154) |
+| **automação e integração** | ![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=ea4b71) ![typebot](https://img.shields.io/badge/typebot-0d1117?style=flat-square&logo=typebot&logoColor=white) ![rest apis](https://img.shields.io/badge/rest_apis-0d1117?style=flat-square&logo=insomnia&logoColor=white) ![webhooks](https://img.shields.io/badge/webhooks-0d1117?style=flat-square&logo=webhooks&logoColor=white) |
+| **testes** | ![vitest](https://img.shields.io/badge/vitest-0d1117?style=flat-square&logo=vitest&logoColor=6e9f18) ![testing library](https://img.shields.io/badge/testing_library-0d1117?style=flat-square&logo=testinglibrary&logoColor=e33332) ![playwright](https://img.shields.io/badge/playwright-0d1117?style=flat-square&logo=playwright&logoColor=2ead33) |
+| **deploy e ferramentas** | ![vercel](https://img.shields.io/badge/vercel-0d1117?style=flat-square&logo=vercel&logoColor=white) ![netlify](https://img.shields.io/badge/netlify-0d1117?style=flat-square&logo=netlify&logoColor=00c7b7) ![git](https://img.shields.io/badge/git-0d1117?style=flat-square&logo=git&logoColor=f05032) ![jira](https://img.shields.io/badge/jira-0d1117?style=flat-square&logo=jira&logoColor=2684ff) |
+| **também já usei** | ![python](https://img.shields.io/badge/python-0d1117?style=flat-square&logo=python&logoColor=3776ab) ![java](https://img.shields.io/badge/java-0d1117?style=flat-square&logo=openjdk&logoColor=white) ![c#](https://img.shields.io/badge/c%23-0d1117?style=flat-square&logo=dotnet&logoColor=512bd4) |

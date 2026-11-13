@@ -16,7 +16,7 @@
 
 ### sobre
 
-estudante do 6º período de sistemas de informação na cesar school e estagiário de automação/integração na hubvision. trabalho principalmente com backend, conectando sistemas via apis/webhook e automatizando processos que antes eram manuais.
+estudante do 6º período de sistemas de informação na CESAR School e estagiário de desenvolvimento/integração de sistemas na HubVision. atuo principalmente com desenvolvimento full-stack, além de trabalhar com automação de processos e integração de sistemas ERP.
 
 ---
 

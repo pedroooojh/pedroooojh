@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="assets/profile/hero-mock.png" width="100%" alt="Pedro Augusto Calazans — desenvolvedor full stack e de automação. Formação na CESAR School, trabalho na HubVision, links para portfólio e LinkedIn." />
+<picture><source media="(max-width: 600px)" srcset="assets/profile/hero-mobile-static.svg"/><img src="assets/profile/hero-desktop-static.svg" width="100%" alt="pedro augusto calazans — desenvolvedor full stack e de automação; formação na CESAR School e trabalho na HubVision"/></picture>
 
-<sub>[português](README.md) · [english](README.en.md)</sub>
+<!-- Links reais, cada imagem tem um alvo independente. Não são hotspots dentro do SVG. -->
+<a href="https://pedroooojh.github.io/portfolio_pedro_calazans_/"><img src="assets/profile/link-portfolio.svg" height="30" alt="portfólio"/></a>&nbsp;&nbsp;<span>·</span>&nbsp;&nbsp;<a href="https://linkedin.com/in/pedro-augusto-calazans"><img src="assets/profile/link-linkedin.svg" height="30" alt="LinkedIn"/></a>&nbsp;&nbsp;<span>·</span>&nbsp;&nbsp;<img src="assets/profile/link-recife.svg" height="30" alt="Recife, PE"/>
 
-<sub><a href="https://pedroooojh.github.io/portfolio_pedro_calazans_/">portfólio</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/pedro-augusto-calazans">linkedin</a> &nbsp;·&nbsp; recife, pe</sub>
+<sub><a href="README.md">português</a> · <a href="README.en.md">english</a> · <a href="README.static.en.md">no animation</a></sub>
 
 </div>
 
@@ -55,4 +56,4 @@ a windows desktop application to download youtube videos and audio, created for 
 | **deployment and tools** | ![vercel](https://img.shields.io/badge/vercel-0d1117?style=flat-square&logo=vercel&logoColor=white) ![netlify](https://img.shields.io/badge/netlify-0d1117?style=flat-square&logo=netlify&logoColor=00c7b7) ![git](https://img.shields.io/badge/git-0d1117?style=flat-square&logo=git&logoColor=f05032) ![jira](https://img.shields.io/badge/jira-0d1117?style=flat-square&logo=jira&logoColor=2684ff) |
 | **also used** | ![python](https://img.shields.io/badge/python-0d1117?style=flat-square&logo=python&logoColor=3776ab) ![java](https://img.shields.io/badge/java-0d1117?style=flat-square&logo=openjdk&logoColor=white) ![c#](https://img.shields.io/badge/c%23-0d1117?style=flat-square&logo=dotnet&logoColor=512bd4) |
 
-<div align="center"><img src="assets/profile/footer-en.svg" width="100%" alt="pedro augusto calazans" /></div>
+

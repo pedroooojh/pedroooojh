@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1>pedro augusto calazans</h1>
+<picture><source media="(max-width: 600px)" srcset="assets/profile/hero-pt-mobile.svg" /><img src="assets/profile/hero-pt.svg" width="100%" alt="pedro augusto calazans" /></picture>
 
-<p><b>desenvolvedor fullstack</b> · backend, integração de sistemas e automação de processos</p>
+[português](README.md) · [english](README.en.md) · [sem animação](README.static.md)
 
-<a href="https://devpedrocalazans.vercel.app/"><img src="https://img.shields.io/badge/portfólio-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="portfólio"></a>
+<a href="https://pedroooojh.github.io/portfolio_pedro_calazans_/"><img src="https://img.shields.io/badge/portfólio-0d1117?style=flat-square&logo=githubpages&logoColor=white" alt="portfólio"></a>
 <a href="https://linkedin.com/in/pedro-augusto-calazans"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <img src="https://img.shields.io/badge/hubvision-estagiário-0d1117?style=flat-square" alt="hubvision">
 <img src="https://img.shields.io/badge/cesar_school-sistemas_de_informação-0d1117?style=flat-square" alt="cesar school">
@@ -53,8 +53,10 @@ app desktop para windows que baixa vídeo e áudio do youtube, feito para a comu
 | área | tecnologias |
 |---|---|
 | **backend e dados** | ![node.js](https://img.shields.io/badge/node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5fa04e) ![typescript](https://img.shields.io/badge/typescript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6) ![postgresql](https://img.shields.io/badge/postgresql-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1) ![supabase](https://img.shields.io/badge/supabase-0d1117?style=flat-square&logo=supabase&logoColor=3fcf8e) |
-| **frontend** | ![react](https://img.shields.io/badge/react-0d1117?style=flat-square&logo=react&logoColor=61dafb) ![vite](https://img.shields.io/badge/vite-0d1117?style=flat-square&logo=vite&logoColor=646cff) ![tailwind css](https://img.shields.io/badge/tailwind_css-0d1117?style=flat-square&logo=tailwindcss&logoColor=06b6d4) ![shadcn/ui](https://img.shields.io/badge/shadcn%2fui-0d1117?style=flat-square&logo=shadcnui&logoColor=white) ![tanstack query](https://img.shields.io/badge/tanstack_query-0d1117?style=flat-square&logo=reactquery&logoColor=ff4154) |
-| **automação e integração** | ![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=ea4b71) ![typebot](https://img.shields.io/badge/typebot-0d1117?style=flat-square&logo=typebot&logoColor=white) ![rest apis](https://img.shields.io/badge/rest_apis-0d1117?style=flat-square&logo=insomnia&logoColor=white) ![webhooks](https://img.shields.io/badge/webhooks-0d1117?style=flat-square&logo=webhooks&logoColor=white) |
+| **frontend** | ![react](https://img.shields.io/badge/react-0d1117?style=flat-square&logo=react&logoColor=61dafb) ![vite](https://img.shields.io/badge/vite-0d1117?style=flat-square&logo=vite&logoColor=646cff) ![tailwind css](https://img.shields.io/badge/tailwind_css-0d1117?style=flat-square&logo=tailwindcss&logoColor=06b6d4) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0d1117?style=flat-square&logo=shadcnui&logoColor=white) ![tanstack query](https://img.shields.io/badge/tanstack_query-0d1117?style=flat-square&logo=reactquery&logoColor=ff4154) |
+| **automação e integração** | ![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=ea4b71) ![typebot](https://img.shields.io/badge/typebot-0d1117?style=flat-square&logo=typebot&logoColor=white) ![rest apis](https://img.shields.io/badge/rest_apis-0d1117?style=flat-square&logo=insomnia&logoColor=white) ![webhooks](https://img.shields.io/badge/webhooks-0d1117?style=flat-square) |
 | **testes** | ![vitest](https://img.shields.io/badge/vitest-0d1117?style=flat-square&logo=vitest&logoColor=6e9f18) ![testing library](https://img.shields.io/badge/testing_library-0d1117?style=flat-square&logo=testinglibrary&logoColor=e33332) ![playwright](https://img.shields.io/badge/playwright-0d1117?style=flat-square&logo=playwright&logoColor=2ead33) |
 | **deploy e ferramentas** | ![vercel](https://img.shields.io/badge/vercel-0d1117?style=flat-square&logo=vercel&logoColor=white) ![netlify](https://img.shields.io/badge/netlify-0d1117?style=flat-square&logo=netlify&logoColor=00c7b7) ![git](https://img.shields.io/badge/git-0d1117?style=flat-square&logo=git&logoColor=f05032) ![jira](https://img.shields.io/badge/jira-0d1117?style=flat-square&logo=jira&logoColor=2684ff) |
 | **também já usei** | ![python](https://img.shields.io/badge/python-0d1117?style=flat-square&logo=python&logoColor=3776ab) ![java](https://img.shields.io/badge/java-0d1117?style=flat-square&logo=openjdk&logoColor=white) ![c#](https://img.shields.io/badge/c%23-0d1117?style=flat-square&logo=dotnet&logoColor=512bd4) |
+
+<div align="center"><img src="assets/profile/footer-pt.svg" width="100%" alt="pedro augusto calazans" /></div>

@@ -1,10 +1,10 @@
 <div align="center">
 
-<picture><source media="(max-width: 600px)" srcset="assets/profile/hero-pt-mobile-static.svg" /><img src="assets/profile/hero-pt-static.svg" width="100%" alt="Cabeçalho de Pedro Augusto Calazans" /></picture>
+<img src="assets/profile/hero-mock.png" width="100%" alt="Pedro Augusto Calazans — desenvolvedor full stack e de automação. Formação na CESAR School, trabalho na HubVision, links para portfólio e LinkedIn." />
 
-<p><a href="https://pedroooojh.github.io/portfolio_pedro_calazans_/"><img src="assets/profile/links/portfolio-pt.svg" height="32" alt="PORTFÓLIO" /></a> <a href="https://linkedin.com/in/pedro-augusto-calazans"><img src="assets/profile/links/linkedin-pt.svg" height="32" alt="LINKEDIN" /></a> <img src="assets/profile/links/hubvision-pt.svg" height="32" alt="HUBVISION" /> <img src="assets/profile/links/cesar-pt.svg" height="32" alt="CESAR SCHOOL" /> <img src="assets/profile/links/recife-pt.svg" height="32" alt="RECIFE, PE" /></p>
+<sub>[português](README.md) · [english](README.en.md)</sub>
 
-<sub>[português](README.static.md) · [english](README.static.en.md) · [com animação](README.md)</sub>
+<sub><a href="https://pedroooojh.github.io/portfolio_pedro_calazans_/">portfólio</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/pedro-augusto-calazans">linkedin</a> &nbsp;·&nbsp; recife, pe</sub>
 
 </div>
 

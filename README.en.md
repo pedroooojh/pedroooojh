@@ -1,11 +1,13 @@
 <div align="center">
 
-<picture><source media="(max-width: 600px)" srcset="assets/profile/hero-mobile.svg"/><img src="assets/profile/hero-desktop.svg" width="100%" alt="pedro augusto calazans — desenvolvedor full stack e de automação; formação na CESAR School e trabalho na HubVision"/></picture>
+<img src="assets/profile/original-reference.png" width="100%" alt="Pedro Augusto Calazans — full-stack and automation developer; Information Systems student at CESAR School and automation and integrations developer at HubVision." />
 
-<!-- Links reais, cada imagem tem um alvo independente. Não são hotspots dentro do SVG. -->
-<a href="https://pedroooojh.github.io/portfolio_pedro_calazans_/"><img src="assets/profile/link-portfolio.svg" height="30" alt="portfólio"/></a>&nbsp;&nbsp;<span>·</span>&nbsp;&nbsp;<a href="https://linkedin.com/in/pedro-augusto-calazans"><img src="assets/profile/link-linkedin.svg" height="30" alt="LinkedIn"/></a>&nbsp;&nbsp;<span>·</span>&nbsp;&nbsp;<img src="assets/profile/link-recife.svg" height="30" alt="Recife, PE"/>
-
-<sub><a href="README.md">português</a> · <a href="README.en.md">english</a> · <a href="README.static.en.md">no animation</a></sub>
+<sub>
+<a href="https://pedroooojh.github.io/portfolio_pedro_calazans_/">portfolio</a> &nbsp;·&nbsp;
+<a href="https://linkedin.com/in/pedro-augusto-calazans">linkedin</a> &nbsp;·&nbsp;
+recife, pe &nbsp;·&nbsp;
+<a href="README.md">português</a>
+</sub>
 
 </div>
 

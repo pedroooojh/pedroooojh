@@ -1,14 +1,10 @@
 <div align="center">
 
-<picture><source media="(max-width: 600px)" srcset="assets/profile/hero-en-mobile-static.svg" /><img src="assets/profile/hero-en-static.svg" width="100%" alt="pedro augusto calazans" /></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/profile/hero-en-mobile-static.svg" /><img src="assets/profile/hero-en-static.svg" width="100%" alt="Profile header of Pedro Augusto Calazans" /></picture>
 
-[português](README.md) · [english](README.en.md) · [no motion](README.static.en.md)
+<p><a href="https://pedroooojh.github.io/portfolio_pedro_calazans_/"><img src="assets/profile/links/portfolio-en.svg" height="32" alt="PORTFOLIO" /></a> <a href="https://linkedin.com/in/pedro-augusto-calazans"><img src="assets/profile/links/linkedin-en.svg" height="32" alt="LINKEDIN" /></a> <img src="assets/profile/links/hubvision-en.svg" height="32" alt="HUBVISION" /> <img src="assets/profile/links/cesar-en.svg" height="32" alt="CESAR SCHOOL" /> <img src="assets/profile/links/recife-en.svg" height="32" alt="RECIFE, BR" /></p>
 
-<a href="https://pedroooojh.github.io/portfolio_pedro_calazans_/"><img src="https://img.shields.io/badge/portfólio-0d1117?style=flat-square&logo=githubpages&logoColor=white" alt="portfólio"></a>
-<a href="https://linkedin.com/in/pedro-augusto-calazans"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"></a>
-<img src="https://img.shields.io/badge/hubvision-estagiário-0d1117?style=flat-square" alt="hubvision">
-<img src="https://img.shields.io/badge/cesar_school-sistemas_de_informação-0d1117?style=flat-square" alt="cesar school">
-<img src="https://img.shields.io/badge/recife,_pe-0d1117?style=flat-square&logo=googlemaps&logoColor=white" alt="recife">
+<sub>[português](README.static.md) · [english](README.static.en.md) · [animated version](README.en.md)</sub>
 
 </div>
 
